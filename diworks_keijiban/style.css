@@ -1,0 +1,144 @@
+.navi-bar {
+    background-color:black;
+    color:white;
+    height:50px;
+    width:100%;
+    font-size:20px;
+    margin-top:-15px;;
+}
+
+.navi-bar li {
+    float:left;
+    list-style-type:none;
+    line-height:50px;
+    padding-right:100px;
+}
+
+.main-container {
+    width:100%;
+    margin:0 auto;
+}
+
+
+.left {
+    float:left;
+    width:70%;
+    padding-bottom:20px;
+    
+}
+
+.right {
+    float:right;
+    width:30%;
+    padding-bottom:20px;
+}
+
+.headline {
+    margin-top:10px;
+    font-size:30px;
+    font-weight:bold;
+    padding-left:10px;
+    border-left:5px solid black;
+    border-bottom:2px solid black;
+    margin-bottom:30px;
+}
+
+.errormessage {
+    border:2px red solid;
+    color:red;
+    margin-left:5px;
+    margin-top:5px;
+    line-height:3px;
+}
+
+
+form {
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    box-sizing:border-box;
+    margin-bottom:30px;
+}
+
+form p {
+    border-left:5px solid red;
+    font-weight:bolder;
+    margin-left:6px;
+    padding-left:8px;
+}
+
+label {
+    margin-left:10px;
+}
+
+input[type="text"] , textarea{
+    margin-left:10px;
+    border:1px solid lightgray;
+}
+
+.submit {
+    margin-left:12px;
+    margin-top:10px;
+    margin-bottom:20px;
+    padding:3px 7px;
+    border:1px solid lightgray;
+    color: white;
+    background-color:#bfbfbf;
+    border-bottom: 2px solid gray;
+}
+
+
+.commentsection {
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    width:100%;
+    margin-bottom:20px;
+    box-sizing:border-box;
+}
+
+.comments {
+    padding-left:20px;
+    margin-bottom:10px;
+}
+
+
+.handlename {
+    padding-left:20px;
+    padding-bottom:5px;
+    margin-bottom:10px;
+    font-size:13px;
+}
+
+h3 {
+    padding-left:12px;
+    border-bottom:1px solid lightgray;
+    margin-right:10px;
+    margin-left:10px;
+}
+
+#hottopic {
+    margin-top:50px;
+}
+
+.menu{
+    padding-left:10px;
+    clear:both;
+    font-weight:bold;
+    font-size:20px;
+    border-bottom:1px dotted black;
+}
+
+#hottopic li {
+    clear:both;
+    list-style-type:none;
+}
+
+footer {
+    background-color:black;
+    clear:both;
+    color:white;
+    height:50px;
+    padding-top:20px;
+    text-align:center;
+    font-size:20px;
+    
+}

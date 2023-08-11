@@ -1,0 +1,92 @@
+.navi-bar {
+    background-color:black;
+    color:white;
+    height:50px;
+    width:100%;
+    font-size:20px;
+    margin-top:-15px;;
+}
+
+.navi-bar li {
+    float:left;
+    list-style-type:none;
+    line-height:50px;
+    padding-right:100px;
+}
+
+.main-container {
+    width:100%;
+    margin:0 auto;
+}
+
+
+.left {
+    float:left;
+    width:70%;
+    padding-bottom:20px;
+    
+}
+
+.right {
+    float:right;
+    width:30%;
+    padding-bottom:20px;
+}
+
+.headline {
+    margin-top:10px;
+    font-size:30px;
+    font-weight:bold;
+    padding-left:10px;
+    border-left:5px solid black;
+    border-bottom:2px solid black;
+}
+
+.post-time {
+    padding-top:10px;
+}
+
+.topics {
+    background-color:gainsboro;
+    padding-top:50px;
+    padding-bottom:30px;
+    text-align:center;
+    display:inline-block;
+}
+
+.picture {
+    text-align:center;
+    padding-right:20px;
+    line-height:10px;
+    display:inline-block;
+    margin-bottom:10px;
+
+}
+
+#hottopic {
+    margin-top:50px;
+}
+
+.menu{
+    padding-left:10px;
+    clear:both;
+    font-weight:bold;
+    font-size:20px;
+    border-bottom:1px dotted black;
+}
+
+#hottopic li {
+    clear:both;
+    list-style-type:none;
+}
+
+footer {
+    background-color:black;
+    clear:both;
+    color:white;
+    height:50px;
+    padding-top:20px;
+    text-align:center;
+    font-size:20px;
+    
+}

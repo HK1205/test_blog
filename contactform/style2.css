@@ -1,0 +1,103 @@
+.navi-bar {
+    background-color:black;
+    color:white;
+    height:50px;
+    width:100%;
+    font-size:20px;
+    margin-top:-15px;;
+}
+
+.navi-bar li {
+    float:left;
+    list-style-type:none;
+    line-height:50px;
+    padding-right:100px;
+}
+
+body {
+    font-family:"Hiragino kaku Gothic";
+}
+
+.bg {
+    background-image:url(picture/C00113-001G.jpg);
+    padding-top:30px;
+    padding-bottom:187px;
+    position:relative;
+}
+
+.confirm{
+    margin:100px auto;
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    border-radius:10px;
+    width:500px;
+}
+
+
+h1 {
+    text-align:center;
+    margin:0 auto;
+    margin-bottom:20px;
+    background-color:#f1f1f1;
+    padding-top:5px;
+    padding-bottom:10px;
+    padding-left:15px;
+    font-size:20px;
+}
+
+p {
+    text-align:center;
+}
+
+.button {
+    margin-top:20px;
+    display:flex;
+}
+
+.button1 {
+    border:1px solid lightgray;
+    padding:4px 10px;
+    color:white;
+    background-color:#bfbfbf;
+    border-radius:5px;
+    border-bottom:2px solid gray;
+    margin-bottom:10px;
+    margin-left:130px;
+    display:inline-block;
+}
+
+.button2 {
+    border:1px solid lightgray;
+    padding:4px 10px;
+    color:white;
+    background-color:darkorange;
+    border-radius:5px;
+    border-bottom:2px solid #E08600;
+    margin-bottom:10px;
+    margin-left:90px;
+    display:inline-block;
+}
+
+.button3 {
+    border:1px solid lightgray;
+    padding:4px 10px;
+    color:white;
+    background-color:#bfbfbf;
+    border-radius:5px;
+    border-bottom:2px solid gray;
+    margin-bottom:10px;
+    margin-left:230px;
+    display:inline-block;
+}
+
+footer {
+    width:100%;
+    background-color:black;
+    color:white;
+    height:50px;
+    padding-top:20px;
+    text-align:center;
+    font-size:20px;
+    bottom:0;
+    
+}

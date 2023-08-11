@@ -1,0 +1,95 @@
+.navi-bar {
+    background-color:black;
+    color:white;
+    height:50px;
+    width:100%;
+    font-size:20px;
+    margin-top:-15px;;
+}
+
+.navi-bar li {
+    float:left;
+    list-style-type:none;
+    line-height:50px;
+    padding-right:100px;
+}
+
+
+body {
+    font-family:"Hiragino Kaku Gothic ProN";
+}
+
+
+h1{
+    text-align:center;
+    margin: 0 auto;
+    margin-bottom:20px;
+    background-color:#f1f1f1;
+    padding-top:5px;
+    padding-bottom:10px;
+    padding-left:15px;
+    font-size:20px;
+}
+
+
+.bg {
+    background-image:url(picture/C00113-001G.jpg);
+    padding-top:30px;
+    padding-bottom:83px;
+    position:relative;
+}
+
+
+.form {
+    margin-top:40px;
+}
+
+form{
+    margin:0 auto;
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    border-radius:10px;
+    width:500px;
+    position:relative;
+}
+
+labal {
+    border-left:solid 2px blue;
+}
+
+
+form div{
+    padding:15px;
+}
+
+form div input[type="submit"]{
+    margin-left:200px;
+}
+
+.text, textarea, dropdown{
+    border:1px solid #dfdfdf;
+    padding:5px;
+    color:#999;
+    background:#fff;
+}
+
+
+.submit{
+    border:1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px; 
+    border-bottom: 2px solid gray;
+}
+
+footer {
+    background-color:black;
+    color:white;
+    height:50px;
+    padding-top:20px;
+    text-align:center;
+    font-size:20px;
+    width:100%;
+    bottom:0;
+}
